@@ -1,0 +1,10 @@
+Dataset/FaceData/processed\rose\5.png 560 54 797 391
+Dataset/FaceData/processed\rose\10.png 205 68 387 305
+Dataset/FaceData/processed\rose\2.png 270 64 455 305
+Dataset/FaceData/processed\rose\4.png 230 80 416 320
+Dataset/FaceData/processed\rose\7.png 173 51 342 269
+Dataset/FaceData/processed\rose\8.png 332 356 595 651
+Dataset/FaceData/processed\rose\3.png 32 54 494 660
+Dataset/FaceData/processed\rose\9.png 122 68 291 291
+Dataset/FaceData/processed\rose\1.png 163 92 448 502
+Dataset/FaceData/processed\rose\6.png 344 277 659 689
